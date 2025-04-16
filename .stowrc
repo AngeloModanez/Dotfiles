@@ -1,0 +1,3 @@
+--dir=~/Dotfiles/config
+--target=$HOME/.config
+--dotfiles

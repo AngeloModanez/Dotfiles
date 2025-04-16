@@ -1,0 +1,7 @@
+bat
+bat-extras
+eza
+tldr
+fish
+ghostty
+vscode

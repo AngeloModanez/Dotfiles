@@ -1,0 +1,56 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR --export --path CDPATH:/home/angel/Projects\x1e/home/angel/Projects/Angular\x1e/home/angel/Projects/AWS\x1e/home/angel/Projects/DVWA\x1e/home/angel/Projects/Java\x1e/home/angel/Projects/JS\x1e/home/angel/Projects/PI\x1e/home/angel/Projects/Py\x1e/home/angel/Projects/React
+SETUVAR --export --path PATH:/home/angel/\x2elocal/bin\x1e/usr/local/sbin\x1e/usr/local/bin\x1e/usr/sbin\x1e/usr/bin\x1e/sbin\x1e/bin\x1e/usr/games\x1e/usr/local/games\x1e/snap/bin\x1e/home/angel/\x2elocal/bin\x1e/home/angel/\x2elocal/bin
+SETUVAR __fish_initialized:3400
+SETUVAR _fisher_jorgebucaran_2F_autopair_2E_fish_files:\x7e/\x2elocal/share/fisher/functions/_autopair_backspace\x2efish\x1e\x7e/\x2elocal/share/fisher/functions/_autopair_insert_left\x2efish\x1e\x7e/\x2elocal/share/fisher/functions/_autopair_insert_right\x2efish\x1e\x7e/\x2elocal/share/fisher/functions/_autopair_insert_same\x2efish\x1e\x7e/\x2elocal/share/fisher/functions/_autopair_tab\x2efish\x1e\x7e/\x2elocal/share/fisher/conf\x2ed/autopair\x2efish
+SETUVAR _fisher_jorgebucaran_2F_fisher_files:\x7e/\x2elocal/share/fisher/functions/fisher\x2efish\x1e\x7e/\x2elocal/share/fisher/completions/fisher\x2efish
+SETUVAR _fisher_jorgebucaran_2F_humantime_2E_fish_files:\x7e/\x2elocal/share/fisher/functions/humantime\x2efish
+SETUVAR _fisher_meaningful_2D_ooo_2F_sponge_files:\x7e/\x2elocal/share/fisher/functions/_sponge_clear_state\x2efish\x1e\x7e/\x2elocal/share/fisher/functions/_sponge_on_exit\x2efish\x1e\x7e/\x2elocal/share/fisher/functions/_sponge_on_postexec\x2efish\x1e\x7e/\x2elocal/share/fisher/functions/_sponge_on_preexec\x2efish\x1e\x7e/\x2elocal/share/fisher/functions/_sponge_on_prompt\x2efish\x1e\x7e/\x2elocal/share/fisher/functions/_sponge_remove_from_history\x2efish\x1e\x7e/\x2elocal/share/fisher/functions/sponge_filter_failed\x2efish\x1e\x7e/\x2elocal/share/fisher/functions/sponge_filter_matched\x2efish\x1e\x7e/\x2elocal/share/fisher/conf\x2ed/sponge\x2efish
+SETUVAR _fisher_plugins:jorgebucaran/fisher\x1ejorgebucaran/autopair\x2efish\x1ejorgebucaran/humantime\x2efish\x1emeaningful\x2dooo/sponge
+SETUVAR _fisher_upgraded_to_4_4:\x1d
+SETUVAR fish_color_autosuggestion:6272a4
+SETUVAR fish_color_cancel:ff5555\x1e\x2d\x2dreverse
+SETUVAR fish_color_command:8be9fd
+SETUVAR fish_color_comment:6272a4
+SETUVAR fish_color_cwd:50fa7b
+SETUVAR fish_color_cwd_root:red
+SETUVAR fish_color_end:ffb86c
+SETUVAR fish_color_error:ff5555
+SETUVAR fish_color_escape:ff79c6
+SETUVAR fish_color_history_current:\x2d\x2dbold
+SETUVAR fish_color_host:bd93f9
+SETUVAR fish_color_host_remote:bd93f9
+SETUVAR fish_color_keyword:ff79c6
+SETUVAR fish_color_match:\x2d\x2dbackground\x3dbrblue
+SETUVAR fish_color_normal:f8f8f2
+SETUVAR fish_color_operator:50fa7b
+SETUVAR fish_color_option:ffb86c
+SETUVAR fish_color_param:bd93f9
+SETUVAR fish_color_quote:f1fa8c
+SETUVAR fish_color_redirection:f8f8f2
+SETUVAR fish_color_search_match:\x2d\x2dbackground\x3d44475a
+SETUVAR fish_color_selection:\x2d\x2dbackground\x3d44475a
+SETUVAR fish_color_status:ff5555
+SETUVAR fish_color_user:8be9fd
+SETUVAR fish_color_valid_path:\x2d\x2dunderline
+SETUVAR fish_key_bindings:fish_default_key_bindings
+SETUVAR fish_pager_color_background:\x1d
+SETUVAR fish_pager_color_completion:f8f8f2
+SETUVAR fish_pager_color_description:6272a4
+SETUVAR fish_pager_color_prefix:8be9fd
+SETUVAR fish_pager_color_progress:6272a4
+SETUVAR fish_pager_color_secondary_background:\x1d
+SETUVAR fish_pager_color_secondary_completion:f8f8f2
+SETUVAR fish_pager_color_secondary_description:6272a4
+SETUVAR fish_pager_color_secondary_prefix:8be9fd
+SETUVAR fish_pager_color_selected_background:\x2d\x2dbackground\x3d44475a
+SETUVAR fish_pager_color_selected_completion:f8f8f2
+SETUVAR fish_pager_color_selected_description:6272a4
+SETUVAR fish_pager_color_selected_prefix:8be9fd
+SETUVAR sponge_allow_previously_successful:true
+SETUVAR sponge_delay:2
+SETUVAR sponge_filters:sponge_filter_failed\x1esponge_filter_matched
+SETUVAR sponge_purge_only_on_exit:false
+SETUVAR sponge_regex_patterns:\x1d
+SETUVAR sponge_successful_exit_codes:0

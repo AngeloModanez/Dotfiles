@@ -1,0 +1,20 @@
+[user]
+	name = AngeloModanez
+	email = angelomodanez15@gmail.com
+	signingkey = ~/.ssh/id_ed25519.pub
+
+[init]
+	defaultBranch = main 
+
+[gpg]
+	format = ssh
+
+[gpg "ssh"]
+	allowedSignersFile = ~/.gitallowed
+
+[commit]
+	gpgsign = true
+
+[alias]
+	amend = commit --amend -a --no-edit
+	lg = log --pretty=format:'%C(yellow)%h %C(magenta)%ad %C(cyan)%an%Cgreen%d %Creset%s' --date=short
