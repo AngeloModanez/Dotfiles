@@ -9,7 +9,7 @@ set -g fish_greeting
 fish_default_key_bindings
 
 if not functions -q fisher
-    curl -sL https://git.io/fisher | source && fisher install jorgebucaran/fisher >/dev/null
+  curl -sL https://git.io/fisher | source && fisher update
 end
 
 oh-my-posh init --config ~/.config/ohmyposh/config.json fish | source
@@ -21,3 +21,4 @@ command -v eza > /dev/null && \
 
 command -v batcat > /dev/null && alias cat="batcat"
 command -v bat > /dev/null && alias cat="bat"
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"

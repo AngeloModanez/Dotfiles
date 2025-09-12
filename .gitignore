@@ -1,1 +1,2 @@
-config/fish/fish/fish_*
+config/fish/fish_variables
+config/fish/*/

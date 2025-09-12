@@ -2,7 +2,10 @@
 usage = 'latest'
 node = '22'
 java = '21'
-maven = '3''
+maven = '3'
+eza = 'latest'
+bat = 'latest'
+bat-extras = 'latest'
 
 [env]
 '_'.file = '~/.env'
