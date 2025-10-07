@@ -1,11 +1,12 @@
 [tools]
 usage = 'latest'
-node = '22'
 java = '21'
 maven = '3'
 eza = 'latest'
 bat = 'latest'
 bat-extras = 'latest'
+pnpm = 'latest'
+node = '22'
 
 [env]
 '_'.file = '~/.env'

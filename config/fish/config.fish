@@ -22,3 +22,4 @@ command -v eza > /dev/null && \
 command -v batcat > /dev/null && alias cat="batcat"
 command -v bat > /dev/null && alias cat="bat"
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+mise activate fish | source

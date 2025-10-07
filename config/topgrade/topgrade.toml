@@ -1,0 +1,8 @@
+[misc]
+pre_sudo = true
+no_retry = true
+cleanup = true
+assume_yes = true
+
+[firmware]
+upgrade = true
