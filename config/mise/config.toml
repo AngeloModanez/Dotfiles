@@ -1,14 +1,11 @@
 [tools]
 usage = 'latest'
-java = '21'
-maven = '3'
+java = 'latest'
+maven = 'latest'
 eza = 'latest'
 bat = 'latest'
 bat-extras = 'latest'
 pnpm = 'latest'
-node = '22'
-yq = "latest"
-android-sdk = "latest"
 
 [env]
 '_'.file = '~/.env'
